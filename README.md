@@ -1,3 +1,14 @@
+## Notebook
+
+If the GitHub notebook preview does not render correctly, download and open:
+
+`bitcoin_sentiment_analysis.ipynb`
+
+using:
+- Jupyter Notebook
+- VS Code
+- Google Colab
+
 # Bitcoin Market Sentiment vs Trader Performance Analysis
 
 ## Project Overview
