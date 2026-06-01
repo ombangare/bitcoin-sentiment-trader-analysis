@@ -6,6 +6,24 @@ This project analyzes the relationship between Bitcoin market sentiment and trad
 
 The objective is to understand how market sentiment affects trader profitability, win rates, trading volume, fees, and overall trading behavior.
 
+## Sample Visualizations
+
+### Profitability by Sentiment
+
+![Profitability Analysis](images/profit_by_sentiment.png)
+
+### Win Rate by Sentiment
+
+![Win Rate Analysis](images/win_rate_by_sentiment.png)
+
+### Trading Volume by Sentiment
+
+![Trading Volume Analysis](images/trading_volume_by_sentiment.png)
+
+### Top 10 Traders by Total Closed PnL
+
+![Top Traders Analysis](images/top_10_traders.png)
+
 ---
 
 ## Datasets
